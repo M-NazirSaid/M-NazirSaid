@@ -2,30 +2,20 @@
   
 <h2>Certifications:</h2>
 
-- CompTIA Security+
+- <a href="https://imgur.com/a/ZoRKnmK">CompTIA Security+</a>
 - <a href="https://imgur.com/8h3tvY7">Google Cybersecurity Certificate</a>
-- Certified in Cybersecurity (ISC)2
-- QUALYS Vulnerability Management Specialist
+- <a href="https://imgur.com/a/u9Vbroz">Certified in Cybersecurity (ISC)2</a>
+- <a href="https://imgur.com/a/tPeExzg">QUALYS Vulnerability Management Specialist</a>
 
 <h2>Cybersecurity Projects:</h2>
-
 
 - <b>Home Lab running WAZUH XDR & SIEM Tool</b>
   - [Praciting Monitoring & Response on WAZUH](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Home Lab running Microsoft Active Directory</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
+  - [Practicing Windows Server Administration](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Windows Server 2019)</b></i>
+- <b>Home Lab for Vulnerability Management with TENABLE NESSUS</b>
+  - [Vulnerability Management with Tenable Nussus in a Windows Enviroment](https://github.com/joshmadakor1/Sentinel-Lab)
+ 
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
