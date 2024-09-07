@@ -3,7 +3,7 @@
 <h2>Certifications:</h2>
 
 - CompTIA Security+
-- <a href="https://imgur.com/undefined">Google Cybersecurity Certificate</a>
+- <a href="https://imgur.com/8h3tvY7">Google Cybersecurity Certificate</a>
 - Certified in Cybersecurity (ISC)2
 - QUALYS Vulnerability Management Specialist
 
