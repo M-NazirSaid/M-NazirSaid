@@ -2,6 +2,7 @@
   
 <h2>Certifications:</h2>
 
+- <a href="https://imgur.com/a/KtjX0ID">TryHackMe SOC Level 1</a>
 - <a href="https://imgur.com/a/ZoRKnmK">CompTIA Security+</a>
 - <a href="https://imgur.com/8h3tvY7">Google Cybersecurity Certificate</a>
 - <a href="https://imgur.com/a/u9Vbroz">Certified in Cybersecurity (ISC)2</a>
