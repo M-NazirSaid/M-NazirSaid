@@ -16,7 +16,9 @@
   - [Practicing Windows Server Administration](https://github.com/M-NazirSaid/) <b><i>(Windows Server 2019)</b></i>
 - <b>Home Lab for Vulnerability Management with TENABLE NESSUS</b>
   - [Vulnerability Management with Tenable Nussus in a Windows Enviroment](https://github.com/M-NazirSaid/)
- 
+- <b>Threat Detection with Amazon GuardDuty</b>
+  - [Practicing Practicing Malware Scanning with Amazon GuardDuty](https://github.com/M-NazirSaid/) <b><i>(AWS Management Console & AWS CLI)</b></i>
+  
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Video No. 1 Title](https://www.youtube.com/@MNazir_11)
