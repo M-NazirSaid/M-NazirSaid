@@ -17,7 +17,7 @@
 - <b>Home Lab for Vulnerability Management with TENABLE NESSUS</b>
   - [Vulnerability Management with Tenable Nussus in a Windows Enviroment](https://github.com/M-NazirSaid/)
 - <b>Threat Detection with Amazon GuardDuty</b>
-  - [Practicing Practicing Malware Scanning with Amazon GuardDuty](https://github.com/M-NazirSaid/) <b><i>(AWS Management Console & AWS CLI)</b></i>
+  - [Practicing Practicing Malware Scanning with Amazon GuardDuty](https://github.com/M-NazirSaid/Threat_Detection_with_Amazon_GuardDuty) <b><i>(AWS Management Console & AWS CLI)</b></i>
   
 <h2>📺 Popular YouTube Videos</h2>
 
