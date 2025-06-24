@@ -10,12 +10,10 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-- <b>Home Lab running WAZUH XDR & SIEM Tool</b>
-  - [Praciting Monitoring & Response on WAZUH](https://github.com/M-NazirSaid/)
-- <b>Home Lab running Microsoft Active Directory</b>
-  - [Practicing Windows Server Administration](https://github.com/M-NazirSaid/) <b><i>(Windows Server 2019)</b></i>
-- <b>Home Lab for Vulnerability Management with TENABLE NESSUS</b>
-  - [Vulnerability Management with Tenable Nussus in a Windows Enviroment](https://github.com/M-NazirSaid/)
+- <b>Scalable Web App with Auto Scaling, ALB, and Custom VPC (AWS Project)</b>
+  - [Practicing AWS Infrastructure Deployment](https://github.com/M-NazirSaid/Scalable-Web-App-with-ALB-Auto-Scaling)<b>
+- <b>Static Website Hosting on Amazon S3</b>
+  - [Practicing Hosting Globally available Websites on Amazon S3](https://github.com/M-NazirSaid/Static-Website-on-AWS-S3)
 - <b>Threat Detection with Amazon GuardDuty</b>
   - [Practicing Practicing Malware Scanning with Amazon GuardDuty](https://github.com/M-NazirSaid/Threat_Detection_with_Amazon_GuardDuty) <b><i>(AWS Management Console & AWS CLI)</b></i>
   
