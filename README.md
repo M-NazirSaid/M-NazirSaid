@@ -1,4 +1,25 @@
-<h1>Hi, I'm Nazir! <br/> <a href="https://www.linkedin.com/in/mnazirsaid/">Cybersecurity Professional</a>,
+I'm a Cloud and Cybersecurity enthusiast with a strong foundation in IT support and customer service. Certified by CompTIA, ISC2 and AWS, I bring a unique blend of technical proficiency and people-centered problem solving shaped by years of supporting users, deploying secure infrastructure, and responding to incidents across physical and cloud environments.
+
+From troubleshooting critical systems across multiple bank branches to building SOC labs and deploying scalable AWS architectures, I’ve learned that the best solutions come from understanding both the technology and the people using it.
+
+Whether it’s:
+
+Deploying a fault-tolerant web application in AWS,
+
+Detecting threats in a homegrown SOC lab,
+
+Or resolving technical issues while delivering exceptional customer support,
+
+I strive to make systems smarter, safer, and more user-friendly.
+
+🛠️ Core Areas:
+
+- Cloud Infrastructure (AWS EC2, VPC, ALB, Auto Scaling)
+- Cybersecurity Labs (Microsoft Sentinel, Wazuh, Nessus)
+- IT Support & Endpoint Management
+- CRM, Ticketing Systems & Customer Experience
+
+Let’s connect if you're into security, cloud, or just building things that work—and work well for people.<h1>Hi, I'm Nazir! <br/> <a href="https://www.linkedin.com/in/mnazirsaid/">Cybersecurity Professional</a>,
   
 <h2>Certifications:</h2>
 
