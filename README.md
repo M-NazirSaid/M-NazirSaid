@@ -28,7 +28,7 @@ I strive to make systems smarter, safer, and more user-friendly.
 
 Let’s connect if you're into security, cloud, or just building things that work—and work well for people.
 
-  
+---
 <h2>Certifications:</h2>
 
 - <a href="https://imgur.com/a/u9Vbroz">Certified in Cybersecurity (ISC)2</a>
@@ -39,7 +39,7 @@ Let’s connect if you're into security, cloud, or just building things that wor
 - <a href="https://imgur.com/a/0SfeEI4">TCM Practical Help Desk Certification</a>
 - <a href="https://imgur.com/a/tPeExzg">QUALYS Vulnerability Management Specialist</a>
 
-
+---
 <h2>Cybersecurity Projects:</h2>
 
 - <b>Scalable Web App with Auto Scaling, ALB, and Custom VPC (AWS Project)</b>
@@ -50,13 +50,10 @@ Let’s connect if you're into security, cloud, or just building things that wor
   - [Practicing Practicing Malware Scanning with Amazon GuardDuty](https://github.com/M-NazirSaid/Threat_Detection_with_Amazon_GuardDuty) <b><i>(AWS Management Console & AWS CLI)</b></i>
   
 
-<h2> 🤳 Connect with me:</h2>
+---
 
-
-[<img align="left" alt="MNazir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: https://www.linkedin.com/in/mnazirsaid
-
+## 📫 Let's Connect!
+- 🌐 [LinkedIn](https://www.linkedin.com/in/mnazirsaid)
+- 💻 [GitHub](https://github.com/M-NazirSaid)
 
 
